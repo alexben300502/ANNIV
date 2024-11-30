@@ -25,7 +25,9 @@ export default function Page2() {
     <div className="relative h-screen flex flex-col items-center justify-center text-center px-4">
       {/* Texte principal */}
       <h1 className="text-4xl font-bold text-pink-600 max-w-2xl">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia.
+        Déjà 3 ans qu'on se connait, bon anniversaire mon amoireuse ❤️. 
+        Je suis plus qu'heureux de t'avoir à mes côtés tous les jours, que tu me supportes toujours et que tu sois le ptit rayon de soleil dans ma vie. Merci d'exister ❤️. 
+        JE T'AIME (ps: clique sur le bouton juste en dessous hehe)
       </h1>
 
       {/* Bouton pour télécharger le PDF */}
